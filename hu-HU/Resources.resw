@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Settings_EarDetection_Text3.Text" xml:space="preserve">
-    <value>Ha kiválasztod autómatikusan, az alkalmazás megpróbálja észlelni azt a zenét amit éppen hallgatsz. Ha hallgat zenét vagy videót, az alkalmazás megálitja neked. Ellenkező esetben az alkalmazás csökkenti a hangerőt.</value>
+    <value>Ha bekapcsolod ezt az opciót, az alkalmazás megpróbálja automatikus észlelni az audiót, amit éppen hallgatsz. Ha zenét vagy videót hallgatsz, az alkalmazás megállitja neked. Egyéb esetben az alkalmazás csökkenti a hangerőt.</value>
   </data>
   <data name="Settings_EarDetection_Text4.Text" xml:space="preserve">
-    <value>A lejátszás szünetel, amikor eltávolítja az egyik AirPods-ot, vagy leáll, amikor eltávolítja mindkét AirPod-ot.</value>
+    <value>Amikor eltávolítja az egyik AirPod-ot, a lejátszás szünetel, amikor eltávolítja mindkét AirPods-ot, a lejátszás megáll..</value>
   </data>
   <data name="Settings_EarDetection_Text6.Text" xml:space="preserve">
-    <value>A hangerő csökkeni fog amikor eltávolít egy Airpods-ot a füléből, vagy visszaálitja amikor eltávolítja / tegye fel mindkét Airpodsot.</value>
+    <value>A hangerő csökkeni fog, amikor eltávolít egy Airpod-ot a füléből, vagy visszaállítja amikor eltávolítja / tegye fel mindkét Airpodsot.</value>
   </data>
   <data name="Settings_Other_Text2_description.Text" xml:space="preserve">
     <value>Hasznos, amikor dolgozik Premiere Pro-ban vagy Audition-ban. Bekapcsolás után újra kell csatlakoztatni az AirPods-ot. Ez növelheti az akkumulátor fogyasztását.</value>
@@ -146,7 +146,7 @@
     <value>Gyors keresés</value>
   </data>
   <data name="Settings_Settings.Text" xml:space="preserve">
-    <value>Beálitások</value>
+    <value>Beállítások</value>
     <comment>Not used</comment>
   </data>
   <data name="Settings_Startup_Text1.Text" xml:space="preserve">
@@ -171,7 +171,7 @@
     <comment>Changed</comment>
   </data>
   <data name="Settings_SystemTray_Text4.Header" xml:space="preserve">
-    <value>Akkumlátor ikon</value>
+    <value>Akkumulátor ikon</value>
   </data>
   <data name="Settings_SystemTray_Text4_menu1.Text" xml:space="preserve">
     <value>Analóg</value>
@@ -183,14 +183,14 @@
     <value>Airpods lecsatlakoztatva</value>
   </data>
   <data name="Status_Settings.Content" xml:space="preserve">
-    <value>Beálitások</value>
+    <value>Beállítások</value>
     <comment>Not used</comment>
   </data>
   <data name="Text_Exit" xml:space="preserve">
     <value>Kilépés</value>
   </data>
   <data name="Text_Help" xml:space="preserve">
-    <value>Segitség</value>
+    <value>Segítség</value>
   </data>
   <data name="Text_No" xml:space="preserve">
     <value>Nem</value>
@@ -199,7 +199,7 @@
     <value>Igen</value>
   </data>
   <data name="Menu_Item1.Content" xml:space="preserve">
-    <value>Akkumlátor adatok</value>
+    <value>Akkumulátor adatok</value>
   </data>
   <data name="Menu_Item2.Content" xml:space="preserve">
     <value>Általános beállítások</value>
@@ -211,7 +211,7 @@
     <value>Támogatás</value>
   </data>
   <data name="Menu_DialogClose.Title" xml:space="preserve">
-    <value>Bíztosan be akarod zárni a MagicPods-ot?</value>
+    <value>Biztosan be akarod zárni a MagicPods-ot?</value>
   </data>
   <data name="Menu_DialogClose.PrimaryButtonText" xml:space="preserve">
     <value>Bezárás</value>
@@ -220,7 +220,7 @@
     <value>Mégsem</value>
   </data>
   <data name="Settings_EarDetection_Button1.Content" xml:space="preserve">
-    <value>Támogatott játékosoknak listája</value>
+    <value>Támogatott lejátszók listája</value>
   </data>
   <data name="Settings_Popup_Text5.Header" xml:space="preserve">
     <value>Airpods keresési rádiusz</value>
@@ -232,7 +232,7 @@
     <value>Tipp.</value>
   </data>
   <data name="Settings_Popup_Tip1.Subtitle" xml:space="preserve">
-    <value>Ne állítson be 65-nél nagyobb értéket. Bizonyos esetekben az animáció véletlenül jelenhet meg.</value>
+    <value>Ne állítson be 65-nél nagyobb értéket. Bizonyos esetekben az animáció pontatlan lehet.</value>
   </data>
   <data name="Settings_Connection_Text1.Text" xml:space="preserve">
     <value>Vigyázat</value>
@@ -241,31 +241,31 @@
     <value>Csatlakozási műveletek</value>
   </data>
   <data name="Settings_SearchAirpods_Text6_warn.Text" xml:space="preserve">
-    <value>Néha amikor az Airpods kapcsolódva és a doboz nyitva van, az akkumlátor ikon talán villog.</value>
+    <value>Néha amikor az Airpods kapcsolódva van és a doboz nyitva van, az akkumulátor ikon villog.</value>
   </data>
   <data name="Settings_Connection_Text3.Header" xml:space="preserve">
     <value>«Kapcsolódás» gomb mutatása</value>
   </data>
   <data name="Settings_Connection_Text4.Header" xml:space="preserve">
-    <value>Autómatikus csatlakozás</value>
+    <value>Automatikus csatlakozás</value>
   </data>
   <data name="Settings_Connection_Text4_description.Text" xml:space="preserve">
-    <value>Autómatikusan kapcsolódás az AirPods-hoz amikor ön kiveszi a bal vagy a jobb Airpods-ot a dobozból</value>
+    <value>Automatikusan kapcsolódás az AirPods-hoz amikor ön kiveszi a bal vagy a jobb Airpods-ot a dobozból</value>
   </data>
   <data name="Settings_Connection_Button1.Content" xml:space="preserve">
-    <value>Airpods többet nincs csatlakoztatva</value>
+    <value>AirPods lecsatlakoztatva.</value>
   </data>
   <data name="Settings_Connection_Text5.Header" xml:space="preserve">
-    <value>Autómatikus lejátszás</value>
+    <value>Automatikus lejátszás</value>
   </data>
   <data name="Settings_Connection_Text5_description.Text" xml:space="preserve">
-    <value>Küldje el a"Play" parancsot az AirPods csatlakoztatása után.</value>
+    <value>Küldje el a "Play" parancsot az AirPods csatlakoztatása után.</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Text1.Text" xml:space="preserve">
-    <value>Az összes beálitás vissza lessz álitva. Szeretnéd folytatni?</value>
+    <value>Az összes beállítás vissza lesz állítva. Szeretné folytatni?</value>
   </data>
   <data name="Settings_Connection_Button1_Flyout_Button1.Content" xml:space="preserve">
-    <value>Igen, beálitások visszálitása</value>
+    <value>Igen, beállítások visszállítása</value>
   </data>
   <data name="Settings_Popup_Tip2.Title" xml:space="preserve">
     <value>Tipp</value>
@@ -278,13 +278,13 @@
     <value>Alkalmazás</value>
   </data>
   <data name="Settings_Popup_Tip2.CloseButtonContent" xml:space="preserve">
-    <value>Ne emlékezz</value>
+    <value>Ne jegyezze meg</value>
   </data>
   <data name="Welcome_Text1.Text" xml:space="preserve">
-    <value>Adja hozzá az Airpods-ot a Windows Bluetooth eszközök listájához</value>
+    <value>Adja hozzá az AirPods-ot a Windows Bluetooth eszközök listájához</value>
   </data>
   <data name="Welcome_Text2.Text" xml:space="preserve">
-    <value>A MagicPods támogatja az Airpods 1-2 generációt, AirPods Pro és PowerBeats (?) Prót</value>
+    <value>A MagicPods támogatja az Airpods 1-2. generációjáz, AirPods Pro-t és PowerBeats Pro-t</value>
   </data>
   <data name="Welcome_Text3.Text" xml:space="preserve">
     <value>Hozza az AirPods dobozát a lehető legközelebb a számítógépéhez, majd nyissa ki</value>
@@ -293,42 +293,42 @@
     <value>Következő</value>
   </data>
   <data name="Settings_SystemTray_Text3_description.Text" xml:space="preserve">
-    <value>Amikor az Airpods csatlakoztatva van, a rendszertálca ikon mutatja a bal és a jobb fejhallgató átlagos töltését. Ikon frissítés minden percben.</value>
+    <value>Amikor az Airpods csatlakoztatva van, a rendszertálca ikon mutatja a bal és a jobb fejhallgató átlagos töltését. Az ikon percenként frissül.</value>
     <comment>Changed</comment>
   </data>
   <data name="Settings_EarDetection_Text1.Text" xml:space="preserve">
-    <value>Fül találat</value>
+    <value>Fül észlelése</value>
   </data>
   <data name="Status_ButtonStartup.Content" xml:space="preserve">
-    <value>Inditás engedélyezése</value>
+    <value>Indítás engedélyezése</value>
   </data>
   <data name="Settings_EarDetection_Text2.Header" xml:space="preserve">
-    <value>Egy Airpods nincs a fülben</value>
+    <value>Egy AirPod nincs a fülben</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu1.Text" xml:space="preserve">
     <value>Lejátszás/szünet</value>
   </data>
   <data name="Status_Description.Text" xml:space="preserve">
-    <value>Nyissa ki a dobozt vagy kapcsolódon rá az Airpods-ra
-hogy nézze meg az akkumlátor szintjét</value>
+    <value>Nyissa ki a dobozt vagy kapcsolódjon rá az Airpods-ra
+hogy nézze meg az akkumulátor szintjét</value>
   </data>
   <data name="Settings_EarDetection_Text2_menu3.Text" xml:space="preserve">
-    <value>Mindegyik (hangerő csökkenése + lejátszás/szünet)</value>
+    <value>Mindegyik (hangerő csökkentése + lejátszás/szünet)</value>
   </data>
   <data name="Menu_DialogClose_Text1.Text" xml:space="preserve">
-    <value>Az alkalmazás be fog zárulni és minden funkció le lessz tiltva.</value>
+    <value>Az alkalmazás be fog zárulni és minden funkció le lesz tiltva.</value>
   </data>
   <data name="Settings_Audio_Text2_warn.Text" xml:space="preserve">
-    <value>Hogy engedélyezt a telepítését a Microsoft Visual C++ 2015 Redistributable. Inditsa újra MagicPods-ot telepités után</value>
+    <value>Hogy engedélyezze, telepítse a Microsoft Visual C++ 2015 Redistributable, majd indítsa újra a MagicPods-ot telepítés után</value>
   </data>
   <data name="Dialog_LostConnection" xml:space="preserve">
-    <value>A kapcsolat az asztallal megszakadt. Válasz «nem» bezárja appot. Újracsatlakozik?</value>
+    <value>A kapcsolat az asztallal megszakadt. Válassz a «nem» opciót az app bezárásához. Újracsatlakoztatja?</value>
   </data>
   <data name="Notification_AirpodsNotFound" xml:space="preserve">
-    <value>Az AirPods nem talált. Győződjön meg róla, hogy az AirPods párosítva van ehhez az eszközhöz, majd indítsa újra az alkalmazást.</value>
+    <value>Az AirPods nem található. Győződjön meg róla, hogy az AirPods párosítva van ehhez az eszközhöz, majd indítsa újra az alkalmazást.</value>
   </data>
   <data name="Settings_Popup_Text2_descripton.Text" xml:space="preserve">
-    <value>A felugró ablak megjelenítése vagy elrejtése, mint például az iPhone készüléken, amikor megnyitja a dobozt.</value>
+    <value>A felugró ablak megjelenítése vagy elrejtése, mint például az iPhone készüléken, amikor kinyitja a töltődobozt.</value>
   </data>
   <data name="Settings_Popup_Text3.Header" xml:space="preserve">
     <value>Jel</value>
@@ -337,10 +337,10 @@ hogy nézze meg az akkumlátor szintjét</value>
     <value>Közepes</value>
   </data>
   <data name="Notification_BluetoothNotSupport" xml:space="preserve">
-    <value>A számítógép nem támogatja a Bluetooth alacsony energiát.</value>
+    <value>A számítógép nem támogatja a Bluetooth alacsony energia módját.</value>
   </data>
   <data name="Notification_LowBattery" xml:space="preserve">
-    <value>{0}% maradt az Airpods akkumlátorából. Töltse az Airpods-ot.</value>
+    <value>{0}% maradt az Airpods akkumulátorából. Töltse fel az Airpods-ot.</value>
     <comment>{0} will be replaced with a number</comment>
   </data>
   <data name="Notification_Warning" xml:space="preserve">
@@ -362,19 +362,19 @@ hogy nézze meg az akkumlátor szintjét</value>
     <value>Nagy</value>
   </data>
   <data name="Settings_Button1.Content" xml:space="preserve">
-    <value>Beálitások visszálitása</value>
+    <value>Beállítások visszállítása</value>
   </data>
   <data name="Settings_Button2.Content" xml:space="preserve">
     <value>Alkalmazás bezárása</value>
   </data>
   <data name="Settings_Startup_Text2_error.Text" xml:space="preserve">
-    <value>Indítás letiltva csoportházirend, vagy nem támogatott ezen az eszközön.</value>
+    <value>Indítás letiltva felhasználóbeállítások által, vagy nem támogatott ezen az eszközön.</value>
   </data>
   <data name="Menu_Item3.Content" xml:space="preserve">
-    <value>Kísérleti jellemzők</value>
+    <value>Kísérleti beállítások</value>
   </data>
   <data name="Settings_Popup_Dialog_Text1.Text" xml:space="preserve">
-    <value>Keresési rádiusz - az a rádiusz, amelyben a számítógép keresi az AirPods dobozt.</value>
+    <value>Keresési rádiusz - az a távolság, amelyben a számítógép keresi az AirPodsot.</value>
   </data>
   <data name="Settings_Popup_Dialog_Button1.Content" xml:space="preserve">
     <value>Bezárás</value>
@@ -404,16 +404,16 @@ hogy nézze meg az akkumlátor szintjét</value>
     <value>Hang</value>
   </data>
   <data name="Settings_Popup_Text5_descripton.Text" xml:space="preserve">
-    <value>Ha az ablak nem jelenik meg, nyissa meg a tokot AirPods belsejében, majd csúsztassa a csúszkát jobbra, amíg az animáció meg nem jelenik.</value>
+    <value>Ha az ablak nem jelenik meg, nyissa meg a tokot az AirPodsokkal benne, majd csúsztassa a csúszkát jobbra, amíg az animáció meg nem jelenik.</value>
   </data>
   <data name="Settings_Audio_Text2.Header" xml:space="preserve">
     <value>Automatikusan kapcsoló hangkimenet</value>
   </data>
   <data name="Settings_Audio_Text2_description.Text" xml:space="preserve">
-    <value>Kapcsolja át a hangot az AirPods-ról az alapértelmezett hangszórókra, ha egyik Airpod sincs a fülben.</value>
+    <value>Kapcsolja át a hangot az AirPods-ról az alapértelmezett hangszórókra, ha az egyik AirPod sincs a fülben.</value>
   </data>
   <data name="Settings_Audio_Text3.Header" xml:space="preserve">
-    <value>Válaszon alapértelmezett hangszórót</value>
+    <value>Válasszon alapértelmezett hangszórót</value>
   </data>
   <data name="Settings_Audio_Text3_menu1" xml:space="preserve">
     <value>Eszköz nem elérhető vagy el lett távolítva</value>
